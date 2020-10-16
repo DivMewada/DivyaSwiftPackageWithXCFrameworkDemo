@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DivyaSwiftXCFrameworkKit",
+        "repositoryURL": "https://github.com/DivMewada/DivyaXCFrameworkSwiftPackage.git",
+        "state": {
+          "branch": null,
+          "revision": "2ddc6433e430f0aa91e95a2329f8de2a6f504321",
+          "version": "1.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
