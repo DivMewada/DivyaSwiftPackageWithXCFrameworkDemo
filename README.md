@@ -1,0 +1,2 @@
+# DivyaSwiftPackageWithXCFrameworkDemo
+Swift package manager using xcframework
